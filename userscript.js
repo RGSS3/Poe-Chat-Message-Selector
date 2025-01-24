@@ -4,6 +4,7 @@
 // @version      0.13
 // @description  Global message selector for Poe chat with AI message filter, regex filter, export and message indicators
 // @author       Rabix, Claude 3.5 Sonnet
+// @copyright    MIT, Rabix(RGSS3)
 // @match        *://*.poe.com/*
 // @grant        none
 // ==/UserScript==
